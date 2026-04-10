@@ -20,3 +20,5 @@ Add the following screenshots to this directory:
 2. Search: "loft para alugar no Rio de Janeiro"
 3. Screenshot the AI Overview panel at the top
 4. Crop to show the mention of loftgigoiarj.com.br
+
+[Site loftgigoia](https://www.loftgigoiarj.com.br/)
